@@ -1,10 +1,10 @@
 /* Примечание для переводчиков: комментарии в скобках [ ] внутри тильды можно игнорировать! */
 
-@1 = ~"The BS Company" представляет мод "Balduran's Seatower" (Морская башня Балдурана)~
-@2 = ~Вы устанавливаете не в ту игру.~
-@3 = ~Этот мод должен быть установлен ДО мода "Worldmap".~
-@4 = ~Обновление "Worldmap"...~
-@5 = ~Этот мод должен быть установлен до "EET_End" на вашей установке EET.~
+@1 = ~The BS Company presents Balduran's Seatower~
+@2 = ~You are installing to the wrong game.~
+@3 = ~This mod should be installed BEFORE the Worldmap mod.~
+@4 = ~Updating Worldmap...~
+@5 = ~This mod needs to be installed before EET_End on your EET install.~
 
 //******************
 // Заметки на карте и информационные точки
